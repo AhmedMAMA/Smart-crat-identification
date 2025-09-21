@@ -25,7 +25,7 @@ Notre projet **No Dead No Risk** propose une solution **flexible, compacte et to
 ## 📄 Documentation  
 Pour plus de détails sur le projet, vous pouvez consulter le document complet :  
 
-👉 [Accéder au document du projet](./docs)  
+👉 [Accéder au document du projet](.Smart-crat-identification/docs/Innovation Project_202.pdf)  
 
 ---
 
